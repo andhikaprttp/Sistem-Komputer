@@ -7,3 +7,4 @@ Rangkuman materi materi sistem komputer kelas X TKJ
 
 ## [Relasi dan Gerbang Logika](gerbang-logika.md)
 - A. [Relasi Logika Dasar](relasi.md)
+- B. [Gerbang Logika
