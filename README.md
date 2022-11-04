@@ -10,3 +10,5 @@ Rangkuman materi materi sistem komputer kelas X TKJ
 - B. [Gerbang Logika Dasar](gerbang-logika-dasar.md)
 - C. [Gerbang Logika Kombinasi](gerbang-kombinasi.md)
 - D. [Gerbang Logika Sekuensial](gerbang-sekuensial.md)
+
+## [Operasi Logika Aritmetika](aritmatika.md)
