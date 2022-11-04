@@ -2,7 +2,7 @@
 Rangkuman materi materi sistem komputer kelas X TKJ
 
 ## [Sistem Bilangan](sistembilangan.md)
-- A. [Sistem Bilangan dalam Komputer](sistem-bilangan.md)
+- A. [Sistem Bilangan dalam Komputer](sistembilangan.md)
 - B. [Konversi Bilangan](konversi-bilangan.md)
 
 ## [Relasi dan Gerbang Logika](gerbang-logika.md)
@@ -12,3 +12,5 @@ Rangkuman materi materi sistem komputer kelas X TKJ
 - D. [Gerbang Logika Sekuensial](gerbang-sekuensial.md)
 
 ## [Operasi Logika Aritmetika](aritmatika.md)
+- A. [Operasi Aritmetika](operasi-mtk.md)
+- B. [Penerapan Operasi Logika Aritmetika](penerapan-operasi-logika-mtk.md)
