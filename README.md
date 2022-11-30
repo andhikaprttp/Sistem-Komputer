@@ -17,3 +17,13 @@ Rangkuman materi materi sistem komputer kelas X TKJ
 
 ## [Multiplexer, Decoder, dan Register](multipexer-decoder-register.md)
 - A. [Rangkaian Multiplexer](multiplexer.md)
+- B. [Rangkaian Decoder](decoder.md)
+- C. [Rangkaian Register](register.md)
+
+## [Elektronika Dasar](elektronika-dasar.md)
+- A. [Dasar Dasar Kelistrikan](dasar-dasar-kelistrikan.md)
+- B. [Komponen Elektronika](komponen-elektro.md)
+- C. [Rangkaian Elektronika](rangkaian-elektro.md)
+
+## [Dasar Dasar Mikrokontroler](dasar-dasar-mikroktroler.md)
+- A. [Mengenal Mikroktroler](mengenal-mikroktroler)
