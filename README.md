@@ -14,3 +14,6 @@ Rangkuman materi materi sistem komputer kelas X TKJ
 ## [Operasi Logika Aritmetika](aritmatika.md)
 - A. [Operasi Aritmetika](operasi-mtk.md)
 - B. [Penerapan Operasi Logika Aritmetika](penerapan-operasi-logika-mtk.md)
+
+## [Multiplexer, Decoder, dan Register](multipexer-decoder-register.md)
+- A. [Rangkaian Multiplexer](multiplexer.md)
