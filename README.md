@@ -4,7 +4,7 @@ Rangkuman materi materi sistem komputer kelas X TKJ
 #### [Kembali ke menu utama](https://dhikaweb7.github.io/web-tkj/)
 
 ## [Sistem Bilangan](sistembilangan.md)
-- A. [Sistem Bilangan dalam Komputer](sistembilangan.md)
+- A. [Sistem Bilangan dalam Komputer](sistembilangan/sistembilangan.md)
 - B. [Konversi Bilangan](konversi-bilangan.md)
 
 ## [Relasi dan Gerbang Logika](gerbang-logika.md)
