@@ -12,7 +12,7 @@
 </pre>
 ---
 
-Rangkuman materi materi sistem komputer kelas X TKJ
+Rangkuman materi materi <br> sistem komputer kelas X TKJ
 
 #### [Kembali ke menu utama](https://dhikaweb7.github.io/web-tkj/)
 
