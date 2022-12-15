@@ -4,6 +4,6 @@ Komputer bekerja berdasarkan angka angka. ketika kita mengetik huruf huruf atau 
 menerjemahkannya ke dalam angka angka atau bilangan. Ada beberapa sistem bilangan yang digunakan dalam sistem komputer.
 Tiga diantaranya adalah :
 
-- [sistem bilangan desimal](desimal.md)
-- [sistem bilangan biner](biner.md)
-- [sistem bilangan hexadesimal](hexa.md)
+#### [⭐ Sistem bilangan desimal](desimal.md)
+#### [⭐ Sistem bilangan biner](biner.md)
+#### [⭐ Sistem bilangan hexadesimal](hexa.md)
